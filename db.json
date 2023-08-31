@@ -1,0 +1,148 @@
+{
+    "producto": [
+      {
+        "name": "Minecraft",
+        "img": "https://image.api.playstation.com/vulcan/img/cfn/11307uYG0CXzRuA9aryByTHYrQLFz-HVQ3VVl7aAysxK15HMpqjkAIcC_R5vdfZt52hAXQNHoYhSuoSq_46_MT_tDBcLu49I.png",
+        "price": "3,000",
+        "description": " ",
+        "id": "1",
+        "category": "starwars"
+      },
+      {
+        "name": "Clone Trooper",
+        "img": "https://toys4fansmx.com/cdn/shop/files/SWBSPlaseIICloneTrooper2.jpg?v=1683221294&width=1946",
+        "price": "3,000",
+        "description": " ",
+        "id": "2",
+        "category": "starwars"
+      },
+      {
+        "name": "Clone Helmet",
+        "img": "https://galacticarmory.net/cdn/shop/products/IMG_3145_1024x.jpg?v=1623313449",
+        "price": "3,000",
+        "description": " ",
+        "id": "3",
+        "category": "starwars"
+      },
+      {
+        "name": "Darth Vader",
+        "img": "https://resources.claroshop.com/medios-plazavip/mkt/61e9ec1bc4256_qzjh002054jpg.jpg",
+        "price": "3,000",
+        "description": " ",
+        "id": "4",
+        "category": "starwars"
+      },
+      {
+        "name": "Imperial Star Destroyer",
+        "img": "https://www.revell.de/out/pictures/master/product/1/00326_star_wars_imperial_star_destroyer_01.jpg",
+        "price": "3,000",
+        "description": " ",
+        "id": "5",
+        "category": "starwars"
+      },
+      {
+        "name": "Anakin Skywalker",
+        "img": "https://www.comicfortress.com/cdn/shop/products/anakin-skywalker-mythos_star-wars_gallery_624dc83b377af_800x.jpg?v=1660837407",
+        "price": "3,000",
+        "description": " ",
+        "id": "6",
+        "category": "starwars"
+      },
+      {
+        "name": "Gameboy",
+        "img": "https://p.turbosquid.com/ts-thumb/HR/KvCs73/Xw/sr00_00000_search/jpg/1611334388/600x600/fit_q87/941733602a9064962198c8659cafbe4664e0e9fb/sr00_00000_search.jpg",
+        "price": "3,000",
+        "description": " ",
+        "id": "7",
+        "category": "consoles"
+      },
+      {
+        "name": "Nintendo 64",
+        "img": "https://live.mrf.io/statics/i/ps/www.muycomputer.com/wp-content/uploads/2016/06/n64_00.jpg?width=1200&enable=upscale",
+        "price": "3,000",
+        "description": " ",
+        "id": "8",
+        "category": "consoles"
+      },
+      {
+        "name": "PlayStation 5",
+        "img": "https://m.media-amazon.com/images/I/41p8FiLGtrL._AC_UF1000,1000_QL80_.jpg",
+        "price": "3,000",
+        "description": " ",
+        "id": "9",
+        "category": "consoles"
+      },
+      {
+        "name": "Switch Controls",
+        "img": "https://www.nfm.com/dw/image/v2/BDFM_PRD/on/demandware.static/-/Sites-nfm-master-catalog/default/dw0e56222e/images/064/76/64762834-1.jpg?sw=1000&sh=1000&sm=fit",
+        "price": "3,000",
+        "description": " ",
+        "id": "10",
+        "category": "consoles"
+      },
+      {
+        "name": "Xbox Control",
+        "img": "https://assets.xboxservices.com/assets/34/3d/343d33f5-9e8b-4cfd-a9d1-3a8586a149a1.jpg?n=878621_Gallery-0_1_1350x759.jpg",
+        "price": "3,000",
+        "description": " ",
+        "id": "11",
+        "category": "consoles"
+      },
+      {
+        "name": "Xbox series X",
+        "img": "https://www.mp.cz/media/photos/2021/09/14/103332-1-2.jpg",
+        "price": "3,000",
+        "description": " ",
+        "id": "12",
+        "category": "consoles"
+      },
+      {
+        "name": "Atari",
+        "img": "https://assetsio.reedpopcdn.com/atari1.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+        "price": "3,000",
+        "description": " ",
+        "id": "13",
+        "category": "various"
+      },
+      {
+        "name": "Flip Clock",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_726487-MLM44364792610_122020-O.webp",
+        "price": "3,000",
+        "description": " ",
+        "id": "14",
+        "category": "various"
+      },
+      {
+        "name": "Oculus",
+        "img": "https://m.media-amazon.com/images/I/71D9OsZmWxL.jpg",
+        "price": "3,000",
+        "description": " ",
+        "id": "15",
+        "category": "various"
+      },
+      {
+        "name": "Pikachu",
+        "img": "https://images.stockx.com/images/Funko-Pop-Games-Pokemon-Pikachu-10-inch-Target-Exclusive-Figure-353.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=jpg&auto=compress&dpr=2&trim=color&updated_at=1607718788&q=60",
+        "price": "3,000",
+        "description": " ",
+        "id": "16",
+        "category": "various"
+      },
+      {
+        "name": "Keyboard Gamer",
+        "img": "https://wallpaperaccess.com/full/4082546.jpg",
+        "price": "3,000",
+        "description": " ",
+        "id": "17",
+        "category": "various"
+      },
+      {
+        "name": "Switch Console",
+        "img": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/6ede75b9-1083-44db-9cf7-6252ec5ba1fc.f7fbfe3b9603eb2dd0b26f8eee8f23b8.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "price": "3,000",
+        "description": " ",
+        "id": "18",
+        "category": "various"
+      }
+    ]
+  }
